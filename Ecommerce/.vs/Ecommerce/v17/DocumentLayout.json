@@ -1,0 +1,672 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.application\\services\\adminservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\adminservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.application\\services\\adminservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\adminservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.application\\services\\adminservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\adminservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.application\\services\\adminservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\adminservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.application\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.application\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.application\\viewmodels\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC5E937-DF1C-47E8-AD8F-E877E6532DB5}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\viewmodels\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\orderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\orderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\iorderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\iorderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\iappliactionuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\iappliactionuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\iproductimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\iproductimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\iorderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\iorderproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\data\\migrations\\20251022101531_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\data\\migrations\\20251022101531_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{866D16E6-0A7D-47DD-9708-5A2D29CE7CEC}|Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{166DFC50-D292-49F0-AD02-D8D513042036}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|h:\\project nafinec git\\e-commerce app\\ecommerce\\ecommerce.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42882712-8D5F-46AE-A38C-8207670AE24B}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Application\\Services\\AdminServices\\UserService.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\UserService.cs",
+              "RelativeToolTip": "Ecommerce.Application\\Services\\AdminServices\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:58:51.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Application\\Services\\AdminServices\\ProductService.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\ProductService.cs",
+              "RelativeToolTip": "Ecommerce.Application\\Services\\AdminServices\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:58:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\OrderService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Application\\Services\\AdminServices\\OrderService.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\OrderService.cs",
+              "RelativeToolTip": "Ecommerce.Application\\Services\\AdminServices\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:57:36.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Application\\Services\\AdminServices\\CategoryService.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\Services\\AdminServices\\CategoryService.cs",
+              "RelativeToolTip": "Ecommerce.Application\\Services\\AdminServices\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:56:44.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Application\\ViewModels\\ProductVM.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "Ecommerce.Application\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:45:21.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Application\\ViewModels\\OrderVM.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "Ecommerce.Application\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:40:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartVM.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\ViewModels\\CartVM.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Application\\ViewModels\\CartVM.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Application\\ViewModels\\CartVM.cs",
+              "RelativeToolTip": "Ecommerce.Application\\ViewModels\\CartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:34:57.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:30:33.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:05:50.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:09:44.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductImageRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:08:12.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:06:38.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderProductRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\OrderProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\OrderProductRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\OrderProductRepository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\OrderProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:39:08.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\OrderDetailsRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\OrderDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:36:49.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:34:51.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\CartRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:33:21.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:31:39.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderProductRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IOrderProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\IOrderProductRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IOrderProductRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\IOrderProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:04:53.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrderDetailsRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IOrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\IOrderDetailsRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IOrderDetailsRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\IOrderDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:04:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:05:18.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:06:12.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\OrderProduct.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\OrderProduct.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\OrderProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:24:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\OrderDetails.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\OrderDetails.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:24:29.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\Product.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:22:57.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:22:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:03:24.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:03:02.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductImageRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IProductImageRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\IProductImageRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IProductImageRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\IProductImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:24:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAppliactionUserRepository.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IAppliactionUserRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Interfaces\\IAppliactionUserRepository.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Interfaces\\IAppliactionUserRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Interfaces\\IAppliactionUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:02:28.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Program.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\Program.cs",
+              "RelativeToolTip": "Ecommerce.Web\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:58:26.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251022101531_InitialCreate.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Data\\Migrations\\20251022101531_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Data\\Migrations\\20251022101531_InitialCreate.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Data\\Migrations\\20251022101531_InitialCreate.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Data\\Migrations\\20251022101531_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:15:38.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Ecommerce.Infrastructure.csproj",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Ecommerce.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T09:54:35.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\appsettings.json",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\appsettings.json",
+              "RelativeToolTip": "Ecommerce.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T09:34:08.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ecommerce.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:30:16.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\ProductImage.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:23:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ecommerce.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:45:32.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Company.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\Company.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Company.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:22:48.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\Category.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:22:35.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\Cart.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:22:27.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Ecommerce.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-20T10:58:27.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

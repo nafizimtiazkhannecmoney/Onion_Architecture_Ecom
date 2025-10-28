@@ -1,0 +1,84 @@
+/Onion Architecture
+  ├── Onion.Domain           // Domain Layer
+  ├── Onion.Application      // Application Layer
+  ├── Onion.Infrastructure   // Infrastructure Layer
+  └── Onion.Web              // API Layer
+
+
+Packages Used on Web Layer
+-Microsoft.EntityFrameworkCore.Relational
+-Microsoft.Extensions.Identity.Stores
+-Microsoft.VisualStudio.Web.CodeGeneration.Core
+-Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+Packages Used on Application Layer
+-Microsoft.AspNetCore.Hosting
+-Microsoft.EntityFrameworkCore.Tools
+-Microsoft.Extensions.Identity.Stores
+-Microsoft.AspNetCore.Mvc.ViewFeatures
+
+Packages Used on Domain Layer
+-Microsoft.AspNetCore.Mvc.Core
+-Microsoft.EntityFrameworkCore.Tools
+-Microsoft.Extensions.Identity.Stores
+-Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+Packages Used on Infrastructure Layer
+-Microsoft.EntityFrameworkCore.Tools
+-Microsoft.Extensions.Identity.Stores
+-Microsoft.AspNetCore.Mvc.Core
+-Microsoft.VisualStudio.Web.CodeGeneration.Design
+-Microsoft.AspNetCore.Identity.EntityFrameworkCore
+-Microsoft.VisualStudio.Web.CodeGeneration.Core
+
+References
+Application References Domain
+Infrastructure References Domain
+Web References Application & Infrastructure
+
+
+Connection String Fix (Add "TrustServerCertificate")
+"DefaultConnection": "Server=DESKTOP-63UE644\\SQLEXPRESS;Database=aspnet-Ecommerce.Web;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
+
+Migrations
+dotnet ef migrations add Initial
+
+Template
+//dotnet ef migrations add [name] --project [Ecommerce.Infrastructure directory] --startup-project [Ecommerce.Web directory]
+
+Find Out the path of Infrastructure and Web Layer
+//"H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj"
+//"H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Web\Ecommerce.Web.csproj"
+
+Migration
+//dotnet ef migrations add InitialCreate --project "H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj" --startup-project "H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Web\Ecommerce.Web.csproj" 
+
+Database Update
+//dotnet ef database update --project "H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj" --startup-project "H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Web\Ecommerce.Web.csproj"
+
+Remove Migration
+template
+dotnet ef migrations remove
+
+Remove
+dotnet ef migrations remove --project "H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Infrastructure\Ecommerce.Infrastructure.csproj" --startup-project "H:\Project Nafinec Git\E-Commerce App\Ecommerce\Ecommerce.Web\Ecommerce.Web.csproj"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
