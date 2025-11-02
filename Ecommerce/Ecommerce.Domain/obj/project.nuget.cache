@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZEH2FM6T7qI=",
+  "dgSpecHash": "hpDert/6Z3E=",
   "success": true,
-  "projectFilePath": "H:\\Project Nafinec Git\\E-Commerce App\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "H:\\Project Nafinec Git\\Onion_Architecture_Ecom\\Ecommerce\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nec\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Nec\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

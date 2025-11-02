@@ -13,6 +13,6 @@ namespace Ecommerce.Application.ViewModels
     {
         public Product Product { get; set; }
         [ValidateNever]
-        IEnumerable<SelectListItem> CategoryList { get; set; }
+        public IEnumerable<SelectListItem> CategoryList { get; set; }
     }
 }
